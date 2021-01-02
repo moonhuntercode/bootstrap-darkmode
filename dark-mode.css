@@ -37,6 +37,16 @@ border-bottom:1px solid #444;
 [data-theme="dark"].modal-footer{
 border-bottom: 1px solid #444;
 }
+[data-theme="dark"].breadcrumb{
+  background-color: #444;
+}
+[data-theme="dark"].breadcrumb a{
+  color:#fff;
+}
+[data-theme="dark"].nav-tabs .nav-link:hover,[data-theme="dark"].nav-tabs .nav-link:focus{
+border-color:#444 #444 transparent;
+}
+
 
 [data-theme="dark"] .bg-light {
   background-color: #333 !important;
