@@ -76,7 +76,9 @@ border-color:#444 #444 transparent;
   border-top:1px solid #444;
 }
 
-[data-theme="dark"]
+[data-theme="dark"] .bg-black{
+  
+}
 
 
 
