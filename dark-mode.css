@@ -75,11 +75,11 @@ border-color:#444 #444 transparent;
 [data-theme="dark"].dropdown-divider{
   border-top:1px solid #444;
 }
-[data-theme="dark"].dropdown-menu{
-  color: #fff;
-  background-color: #222;
-  border: 1px solid #444;
-}
+
+[data-theme="dark"]
+
+
+
 
 
 [data-theme="dark"] .bg-light {
