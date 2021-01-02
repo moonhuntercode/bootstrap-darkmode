@@ -104,7 +104,12 @@ border-color:#444 #444 transparent;
   background-color: #303030 !important;
 }
 
+[data-theme="dark"] a.bg-dark:hover, [data-theme="dark"] a.bg-dark:focus,
+[data-theme="dark"] button.bg-dark:hover,
+[data-theme="dark"] button.bg-dark:focus{
+  background-color: #171616 !important;
+}
+
 [data-theme="dark"] .bg-white {
   background-color: #fff !important;
 }
-
