@@ -91,13 +91,20 @@ border-color:#444 #444 transparent;
 }
 
 [data-theme="dark"] .bg-light {
-  background-color: #333 !important;
+  background-color: #999 !important;
+}
+
+[data-theme="dark"] a.bg-light:hover, [data-theme="dark"] a.bg-light:focus,
+[data-theme="dark"] button.bg-light:hover,
+[data-theme="dark"] button.bg-light:focus{
+  background-color: #807f7f !important;
+}
+
+[data-theme="dark"] .bg-dark{
+  background-color: #303030 !important;
 }
 
 [data-theme="dark"] .bg-white {
-  background-color: #000 !important;
+  background-color: #fff !important;
 }
 
-[data-theme="dark"] .bg-black {
-  background-color: #eee !important;
-}
