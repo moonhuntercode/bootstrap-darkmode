@@ -86,7 +86,9 @@ border-color:#444 #444 transparent;
 
 [data-theme="dark"] a.bg-secondary:hover, [data-theme=dark] a.bg-secondary:focus,
 [data-theme="dark"] button.bg-secondary:hover,
-[data-theme="dark"] button.bg-secondary:focus,
+[data-theme="dark"] button.bg-secondary:focus{
+  background-color: #2b2a2a !important;
+}
 
 [data-theme="dark"] .bg-light {
   background-color: #333 !important;
